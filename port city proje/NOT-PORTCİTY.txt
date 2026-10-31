@@ -1,9 +1,1 @@
-Merhabalar Emrah Hocam,
 
-İyi günler dilerim. Hazırlamış olduğum web sitesi projesi ile ilgili birkaç detayı paylaşmak isterim.
-
-Projeyi geliştirirken öğrettiklerinizle ilerlemeye gayret ettim. Görseller konusunda tam istediğim bütünlüğü yakalayamamış olsam da, dosya yapısında sorun çıkmaması adına stok görsellerle ilerlemenin daha güvenli olacağını düşündüm.
-
-Aslında aklımda galeri için fotoğraf büyütme,Portun haritası, Portta buluan mağzalar gibi daha kapsamlı fikirler vardı ancak ne öğrettiğimi biliyorum ona göre yapın uyarınızı dikkate alarak bunları projeye dahil etmedim. Yine de içime sinmesi adına; navigasyona ve galeri bölümüne, yapıyı bozmayacak ufak animasyonlar, renkler ve shadow ekledim(containerlara da shadow ekledim).Olabildiğince temiz ve düzenli çalışmaya çalıştım.
-
-Umarım ortaya çıkan projeyi beğenirsiniz. Değerli yorumlarınızı bekliyorum.
